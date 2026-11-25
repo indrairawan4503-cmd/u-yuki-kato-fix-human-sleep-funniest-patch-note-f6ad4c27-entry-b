@@ -1,0 +1,1 @@
+Sleep 2.0: Fixed: humans now fall asleep in 8 minutes. Deprecated: counting sheep, the snooze button, and lying awake replaying that thing you said in 2014.
